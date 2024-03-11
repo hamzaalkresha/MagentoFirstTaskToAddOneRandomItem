@@ -5,8 +5,9 @@
     <classes>
       <class name="AddOneRandomItem">
         <methods>
-          <include name="addOneRandomItemToThecart"/>
+          <include name="signupProcess"/>
           <include name="mySetup"/>
+          <include name="checkoutProcess"/>
         </methods>
       </class> <!-- AddOneRandomItem -->
     </classes>
